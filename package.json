@@ -1,0 +1,19 @@
+{
+  "name": "allclear",
+  "version": "1.0.0",
+  "description": "Business managment software for MSPs and ITSPs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddelgad5/AllClear.git"
+  },
+  "author": "David Delgado",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ddelgad5/AllClear/issues"
+  },
+  "homepage": "https://github.com/ddelgad5/AllClear#readme"
+}
