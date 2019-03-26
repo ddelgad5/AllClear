@@ -10,10 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/ddelgad5/AllClear.git"
   },
-  "author": "David Delgado",
+  "author": "David Delgado <iam.david.delgado@gmail.com> (https://daviddelgado.co/)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ddelgad5/AllClear/issues"
+    "url": "https://github.com/ddelgad5/AllClear/issues",
+    "email": "iam.david.delgado@gmail.com"
   },
   "homepage": "https://github.com/ddelgad5/AllClear#readme"
 }
